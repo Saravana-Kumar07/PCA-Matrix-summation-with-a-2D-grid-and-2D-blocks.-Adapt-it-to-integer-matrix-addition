@@ -14,7 +14,7 @@ To implement Matrix summation with 2D grids and blocks.
 9. Reset the GPU device
 ## Program:
 ```
-Developed by: Saravana Kumar
+Developed by: Saravana Kumar S
 Register number: 212221230088
 ```
 
